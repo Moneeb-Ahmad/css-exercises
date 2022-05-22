@@ -1,0 +1,22 @@
+/* ID Selectors */
+#no2 {
+	color: #1e90ff;
+	font-size: 24px;
+	font-weight: bold;
+}
+#no4 {
+	background-color: #90ee90;
+	font-size: 24px;
+	font-weight: bold;
+}
+/* Class Selectors */
+.odd {
+	background-color: #ffb6c1;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.no3 {
+	font-size: 24px;
+}
+
+
